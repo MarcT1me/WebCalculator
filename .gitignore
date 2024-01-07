@@ -1,0 +1,6 @@
+__pycache__
+.idea
+kivy_venv
+
+additional.py
+test.py
